@@ -1,3 +1,3 @@
 rootProject.name = 'stopwatch'
 
-include ':app'
+include ':app12'
